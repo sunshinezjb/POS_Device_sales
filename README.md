@@ -1,0 +1,1 @@
+POS_machines_sales_site
