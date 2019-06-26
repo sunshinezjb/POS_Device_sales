@@ -1,0 +1,22 @@
+{
+  "name": "pos_machines_sales_site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunshinezjb/POS_machines_sales_website.git"
+  },
+  "keywords": [
+    "POS"
+  ],
+  "author": "sunshinezjb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunshinezjb/POS_machines_sales_website/issues"
+  },
+  "homepage": "https://github.com/sunshinezjb/POS_machines_sales_website#readme"
+}
